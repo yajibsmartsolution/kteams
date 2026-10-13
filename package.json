@@ -1,0 +1,15 @@
+{
+  "name": "kedco-technical-automation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "KEDCO Technical Automation application and Railway deployment entry point",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "npm --prefix backend ci && npm --prefix backend run build",
+    "start": "npm --prefix backend start",
+    "typecheck": "npm --prefix backend run typecheck",
+    "test": "npm --prefix backend run typecheck"
+  }
+}

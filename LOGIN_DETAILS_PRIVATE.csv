@@ -1,0 +1,49 @@
+﻿Email,Full Name,Primary Role,Additional Roles,Landing Page,Temporary Password,Password Status
+yajibsoftware@gmail.com,KEDCO Super Administrator,SUPER_ADMIN,,./pages/developer/dev.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+mdceo@kedco.com,Managing Director / CEO,MD_CEO,,./pages/executive/cto.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+cto@kedco.com,Chief Technical Officer,CTO,,./pages/executive/cto.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+tacto@kedco.com,Technical Assistant to CTO,TA_CTO,,./pages/executive/ta.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+headtechnical@kedco.com,Head Technical,HEAD_TECHNICAL,,./pages/executive/cto.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+headso@kedco.com,Head System Operations,HEAD_SO,,./pages/system-operations/headso.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+dispatch@kedco.com,Dispatch Supervisor,DISPATCH_SUPERVISOR,DISPATCH,./pages/system-operations/dispatch.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+operator@kedco.com,System Operator,OPERATOR,STATION_OPERATOR,./pages/system-operations/operator.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+tcninterface@kedco.com,TCN Interface Officer,TCN_INTERFACE,,./pages/system-operations/operator.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+headom@kedco.com,Head Operations and Maintenance,HEAD_OM,,./pages/operations-maintenance/headom.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+re@kedco.com,Regional Engineer,RE,,./pages/operations-maintenance/re_te.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+te@kedco.com,Technical Engineer,TE,,./pages/operations-maintenance/re_te.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+regionalomcoord@kedco.com,Regional O&M Coordinator,REGIONAL_OM_COORD,,./pages/operations-maintenance/headom.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+regionaleflead@kedco.com,Regional Electrical Fault Lead,REGIONAL_EF_LEAD,,./pages/operations-maintenance/regionalef.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+regionalef@kedco.com,Regional Electrical Fault Engineer,REGIONAL_EF,,./pages/operations-maintenance/regionalef.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+regionalcjlead@kedco.com,Regional Civil Jointing Lead,REGIONAL_CJ_LEAD,,./pages/operations-maintenance/regionalcj.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+regionalcj@kedco.com,Regional Civil Jointing Engineer,REGIONAL_CJ,,./pages/operations-maintenance/regionalcj.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+tsptechnicalservices@kedco.com,Technical Services Personnel,TSP_TECH_SERVICES,,./pages/operations-maintenance/headom.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+headpcm@kedco.com,Head Protection Control and Metering,HEAD_PCM,,./pages/pcm/headpcm.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+regionalpcmcoord@kedco.com,Regional PC&M Coordinator,REGIONAL_PCM_COORD,,./pages/pcm/regionalpcm.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+protectionengineer@kedco.com,Protection Engineer,PROTECTION_ENGINEER,,./pages/pcm/regionalpcm.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+controlscadaengineer@kedco.com,Control and SCADA Engineer,CONTROL_SCADA_ENGINEER,,./pages/pcm/regionalpcm.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+meteringengineer@kedco.com,Metering Engineer,METERING_ENGINEER,,./pages/pcm/regionalpcm.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+testengineer@kedco.com,Testing Engineer,TEST_ENGINEER,,./pages/pcm/regionalpcm.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+regionalppmcoord@kedco.com,Regional PPM Coordinator,REGIONAL_PPM_COORD,,./pages/pcm/regionalpcm.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+headpi@kedco.com,Head Planning and Investment,HEAD_PI,,./pages/planning-investment/headpi.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+regionalpicoord@kedco.com,Regional Planning and Investment Coordinator,REGIONAL_PI_COORD,,./pages/planning-investment/regionalpi.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+planningengineer@kedco.com,Planning Engineer,PLANNING_ENGINEER,,./pages/planning-investment/regionalpi.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+projectengineer@kedco.com,Project Engineer,PROJECT_ENGINEER,,./pages/planning-investment/regionalpi.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+headhse@kedco.com,Head Health Safety and Environment,HEAD_HSE,,./pages/hse/headhse.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+regionalhseofficer@kedco.com,Regional HSE Officer,REGIONAL_HSE_OFFICER,,./pages/hse/regionalhse.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+hseofficer@kedco.com,HSE Officer,HSE_OFFICER,,./pages/hse/regionalhse.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+mis@kedco.com,Head MIS,HEAD_MIS,,./pages/mis/mis.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+datateamlead@kedco.com,MIS Team Lead,MIS_TEAM_LEAD,,./pages/mis/teamleaddata.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+dataanalyst@kedco.com,Data Analyst,DATA_ANALYST,ANALYZER,./pages/mis/teamleaddata.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+tmo@kedco.com,Transformation Management Officer,TMO,,./pages/tmo/tmo.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+trans@kedco.com,Transmission Operations Officer,TRANSMISSION,,./pages/tmo/trans.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+storemanager@kedco.com,Store Manager,STORE_MANAGER,,./pages/stores/store-inventory.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+storeofficer@kedco.com,Store Officer,STORE_OFFICER,,./pages/stores/store-inventory.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+procurementhead@kedco.com,Head Procurement,PROCUREMENT_HEAD,,./pages/executive/ta.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+procurementofficer@kedco.com,Procurement Officer,PROCUREMENT_OFFICER,,./pages/executive/ta.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+financehead@kedco.com,Head Finance,FINANCE_HEAD,,./pages/executive/ta.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+financeofficer@kedco.com,Finance Officer,FINANCE_OFFICER,,./pages/executive/ta.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+legalofficer@kedco.com,Legal Officer,LEGAL_OFFICER,,./pages/executive/ta.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+securityofficer@kedco.com,Security Officer,SECURITY_OFFICER,,./pages/executive/ta.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+hradminofficer@kedco.com,HR and Administration Officer,HR_ADMIN_OFFICER,,./pages/executive/ta.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+contractorpm@kedco.com,Contractor Project Manager,CONTRACTOR_PM,,./pages/contractors/contractors.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION
+contractoruser@kedco.com,Contractor User,CONTRACTOR_USER,,./pages/contractors/contractors.html,yajib@kedco77,TEMPORARY - CHANGE BEFORE PRODUCTION

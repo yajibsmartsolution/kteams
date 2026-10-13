@@ -1,0 +1,38 @@
+Verification - 02 October 2026
+
+DOM and source regression checks passed in connected-service, offline-service,
+and late-load fixtures. These fixtures use the actual page and helper code,
+with mocked authentication/backend responses and the previously supplied central
+menu-observer correction. No operational form was sent to a real user.
+
+- Four summary cards are children of the map view and main layout.
+- Map section hides when another menu is selected.
+- All 5 menu views and mobile navigation still work.
+- 64 RE/TE role-region-unit combinations across all 16 regions checked.
+- Map source -> 33 kV feeder -> injection station dependencies checked.
+- TE upstream 33 kV context and scoped 11 kV route choices checked.
+- No unconditional Funtua source or route choice.
+- Gagarawa sources are resolved through recorded feeder/state joins when omitted
+  from the station-name list; Jigawa West includes Dutse and Gagarawa as recorded.
+- All original responsibility feeders remain available in their eForm scope.
+- All 7 eForms checked for both RE and TE, including source/voltage filtering,
+  custom apparatus entry and restoration of old saved values.
+- Original named controls, input nodes and IDs preserved.
+- Local saving and recipient selection retention passed.
+- Suggestion UI is excluded from captured dispatch documents.
+- No recurring form mutations while idle.
+- All 7 inline scripts and the assistance module pass JavaScript syntax checks.
+- The three embedded operational datasets are unchanged.
+- Installer patch application, CRLF normalization, rerun idempotence, rejection
+  of modified target fragments and embedded-payload consistency checked.
+
+Data limitations: 42 responsibility rows have no exact recorded topology link
+when case, spacing and punctuation are normalized. Their names are offered as
+supplied in eForms and explicitly identified in the map. No unconfirmed feeder
+aliases, topology, official lists or upstream sources were invented.
+
+Environment limitations: Windows PowerShell execution, live account delivery,
+Google Maps rendering, graphical signatures and browser pixel layout were not
+available for verification here. Canvas rendering was stubbed in the DOM tests.
+The existing optional kedco-cloud-backup.js module is absent from the supplied
+project; its unavailable-service warning is unrelated to this correction.
